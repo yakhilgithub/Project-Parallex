@@ -1,4 +1,4 @@
-# Project-Parallex
+# Project-Parallex Website
 # Day16 of 30 days 30 projects challenge
 
  Welcome to my Parallax Project! 🚀
